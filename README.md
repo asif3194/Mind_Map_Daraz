@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # **Mind Map Report: Daraz Bangladesh Website**
 
 ## **1. Introduction**
@@ -20,4 +20,4 @@ In **Software Quality Assurance (SQA)**, mind maps play a crucial role in test p
 
 =======
 # Mind_Map_Daraz
->>>>>>> 98795f4d8b6c9dc1e2faf4430448058788ad4043
+
