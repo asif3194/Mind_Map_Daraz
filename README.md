@@ -1,7 +1,6 @@
+ **Mind Map Report: Daraz Bangladesh Website**
 
-# **Mind Map Report: Daraz Bangladesh Website**
-
-## **1. Introduction**
+ **1. Introduction**
 A mind map is a visual representation of the structure and components of a system, helping in understanding the overall workflow. This document outlines the mind map created for the **Daraz Bangladesh** website, highlighting its key sections and functionalities. The mind map is designed using **XMind** and serves as a guide for understanding the website’s architecture, navigation, and core features.
 
 ## **2. Purpose of the Mind Map in Software Quality Assurance (SQA)**
@@ -17,7 +16,5 @@ In **Software Quality Assurance (SQA)**, mind maps play a crucial role in test p
 # Mindmap Report
 ![Daraz](https://github.com/user-attachments/assets/d9b1ca3e-b221-4688-b738-bed28e8d75be)
 
-
-=======
 # Mind_Map_Daraz
 
